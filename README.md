@@ -1,4 +1,4 @@
 # Demo
 This is my first GitHub Repository
 <br>
-Author -  Ankita 
+Author -  Ankita Singha Roy
